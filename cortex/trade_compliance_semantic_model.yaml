@@ -1,0 +1,347 @@
+name: trade_compliance_model
+description: >
+  AI-powered trade compliance semantic model for Cummins Entry Visibility.
+  Enables natural language queries for exception analysis, broker performance,
+  rule discovery, and anomaly investigation.
+
+tables:
+  - name: entry_lines
+    description: Customs entry line items with validation results and AI anomaly detection.
+    base_table:
+      database: TRADE_COMPLIANCE_DB
+      schema: ATOMIC
+      table: ENTRY_LINE
+    
+    dimensions:
+      - name: part_number
+        description: Product part number from broker
+        synonyms: ["product", "item", "SKU", "article", "part"]
+        expr: PART_NUMBER
+      
+      - name: broker_hts_code
+        description: HTS tariff code provided by broker
+        synonyms: ["tariff code", "HS code", "HTSUS", "CN code", "harmonized code"]
+        expr: BROKER_HTS_CODE
+      
+      - name: broker_coo
+        description: Country of origin provided by broker
+        synonyms: ["country", "origin", "COO", "country of origin"]
+        expr: BROKER_COO
+      
+      - name: overall_status
+        description: Final validation status after all rules
+        sample_values: ["PASS", "FAIL"]
+        expr: OVERALL_STATUS
+      
+      - name: part_validation
+        description: Part number validation result
+        sample_values: ["PASS", "FAIL"]
+        expr: PART_VALIDATION
+        
+      - name: hts_validation
+        description: HTS code validation result
+        sample_values: ["PASS", "FAIL"]
+        expr: HTS_VALIDATION
+        
+      - name: addcvd_validation
+        description: ADD/CVD validation result
+        sample_values: ["PASS", "FAIL"]
+        expr: ADDCVD_VALIDATION
+      
+      - name: anomaly_flag
+        description: AI-detected anomaly indicator
+        sample_values: ["true", "false"]
+        expr: ANOMALY_FLAG
+        
+      - name: anomaly_type
+        description: Type of anomaly detected by AI
+        synonyms: ["anomaly category", "issue type"]
+        expr: ANOMALY_TYPE
+        
+      - name: gtm_hts_code
+        description: Expected HTS code from GTM reference
+        expr: GTM_HTS_CODE
+    
+    time_dimensions:
+      - name: created_date
+        description: When the entry line was created
+        expr: CREATED_AT
+        data_type: TIMESTAMP
+    
+    measures:
+      - name: entered_value
+        description: Declared customs value in USD
+        synonyms: ["value", "amount", "customs value", "declared value"]
+        expr: ENTERED_VALUE
+        aggregations: [sum, avg, min, max]
+      
+      - name: duty_amount
+        description: Calculated duty amount in USD
+        synonyms: ["duty", "tariff amount"]
+        expr: DUTY_AMOUNT
+        aggregations: [sum, avg]
+      
+      - name: add_amount
+        description: Anti-dumping duty amount
+        expr: ADD_AMOUNT
+        aggregations: [sum]
+        
+      - name: cvd_amount
+        description: Countervailing duty amount
+        expr: CVD_AMOUNT
+        aggregations: [sum]
+      
+      - name: anomaly_score
+        description: AI anomaly confidence score (0-1)
+        expr: ANOMALY_SCORE
+        aggregations: [avg, max]
+      
+      - name: line_count
+        description: Count of entry lines
+        expr: "1"
+        aggregations: [sum]
+        
+      - name: exception_count
+        description: Count of failed validation lines
+        expr: CASE WHEN OVERALL_STATUS = 'FAIL' THEN 1 ELSE 0 END
+        aggregations: [sum]
+      
+      - name: anomaly_count
+        description: Count of AI-flagged anomalies
+        expr: CASE WHEN ANOMALY_FLAG = TRUE THEN 1 ELSE 0 END
+        aggregations: [sum]
+      
+      - name: pass_rate
+        description: Percentage of lines passing validation
+        expr: CASE WHEN OVERALL_STATUS = 'PASS' THEN 100.0 ELSE 0 END
+        aggregations: [avg]
+      
+      - name: duty_at_risk
+        description: Total duty amount for failed validations
+        expr: CASE WHEN OVERALL_STATUS = 'FAIL' THEN DUTY_AMOUNT ELSE 0 END
+        aggregations: [sum]
+
+  - name: brokers
+    description: Customs brokers with AI-inferred schema mappings and performance metrics.
+    base_table:
+      database: TRADE_COMPLIANCE_DB
+      schema: ATOMIC
+      table: BROKER
+    
+    dimensions:
+      - name: broker_name
+        description: Name of the customs broker
+        synonyms: ["broker", "customs broker", "filer"]
+        expr: BROKER_NAME
+      
+      - name: broker_type
+        description: Broker region type
+        sample_values: ["US", "EU"]
+        expr: BROKER_TYPE
+        
+      - name: file_format
+        description: Data file format used by broker
+        sample_values: ["XML", "CSV", "XLSB"]
+        expr: FILE_FORMAT
+        
+      - name: active_flag
+        description: Whether broker is currently active
+        expr: ACTIVE_FLAG
+    
+    measures:
+      - name: schema_confidence
+        description: AI confidence in schema mapping (0-1)
+        expr: SCHEMA_CONFIDENCE
+        aggregations: [avg]
+      
+      - name: accuracy_rate
+        description: Historical validation accuracy rate
+        expr: ACCURACY_RATE
+        aggregations: [avg]
+        
+      - name: exception_rate
+        description: Historical exception rate
+        expr: EXCEPTION_RATE
+        aggregations: [avg]
+
+  - name: discovered_rules
+    description: AI-suggested validation rules discovered from correction patterns.
+    base_table:
+      database: TRADE_COMPLIANCE_DB
+      schema: ML
+      table: DISCOVERED_RULES
+    
+    dimensions:
+      - name: rule_name
+        description: Name of the discovered rule
+        synonyms: ["rule", "validation rule"]
+        expr: RULE_NAME
+      
+      - name: status
+        description: Rule approval status
+        sample_values: ["SUGGESTED", "UNDER_REVIEW", "APPROVED", "REJECTED", "ACTIVE"]
+        expr: STATUS
+        
+      - name: discovery_method
+        description: How the rule was discovered
+        sample_values: ["CORRECTION_PATTERN", "ANOMALY_CLUSTER", "LLM_SEMANTIC"]
+        expr: DISCOVERY_METHOD
+    
+    time_dimensions:
+      - name: discovery_date
+        description: When the rule was discovered
+        expr: DISCOVERY_DATE
+        data_type: DATE
+    
+    measures:
+      - name: confidence_score
+        description: AI confidence in rule validity
+        expr: CONFIDENCE_SCORE
+        aggregations: [avg, min, max]
+      
+      - name: estimated_impact
+        description: Estimated dollar impact of rule
+        expr: ESTIMATED_IMPACT
+        aggregations: [sum, avg]
+        
+      - name: correction_count
+        description: Number of corrections supporting this rule
+        expr: CORRECTION_COUNT
+        aggregations: [sum]
+
+  - name: anomaly_detections
+    description: AI-flagged unusual entries detected without explicit rules.
+    base_table:
+      database: TRADE_COMPLIANCE_DB
+      schema: ML
+      table: ANOMALY_DETECTIONS
+    
+    dimensions:
+      - name: anomaly_type
+        description: Type of anomaly detected
+        sample_values: ["STATISTICAL_OUTLIER", "PATTERN_DEVIATION", "VALUE_SPIKE"]
+        expr: ANOMALY_TYPE
+        
+      - name: status
+        description: Resolution status
+        sample_values: ["NEW", "INVESTIGATING", "VALID_ISSUE", "FALSE_POSITIVE"]
+        expr: STATUS
+        
+      - name: trigger_field
+        description: Field that triggered the anomaly
+        expr: TRIGGER_FIELD
+    
+    time_dimensions:
+      - name: detection_date
+        description: When anomaly was detected
+        expr: DETECTION_DATE
+        data_type: DATE
+    
+    measures:
+      - name: anomaly_score
+        description: Anomaly confidence score
+        expr: ANOMALY_SCORE
+        aggregations: [avg, max]
+        
+      - name: potential_impact
+        description: Estimated financial impact
+        expr: POTENTIAL_IMPACT
+        aggregations: [sum]
+
+relationships:
+  - name: entry_to_broker
+    left_table: entry_lines
+    right_table: brokers
+    relationship_type: many_to_one
+    join_type: left
+    join:
+      - left_column: BROKER_ID
+        right_column: BROKER_ID
+
+verified_queries:
+  - name: worst_broker_accuracy
+    question: "Which broker has the worst accuracy?"
+    sql: |
+      SELECT b.BROKER_NAME, b.BROKER_TYPE,
+             COUNT(CASE WHEN el.OVERALL_STATUS = 'FAIL' THEN 1 END) as failures,
+             COUNT(*) as total,
+             ROUND(COUNT(CASE WHEN el.OVERALL_STATUS = 'PASS' THEN 1 END) * 100.0 / NULLIF(COUNT(*), 0), 1) as accuracy_pct
+      FROM TRADE_COMPLIANCE_DB.ATOMIC.BROKER b
+      LEFT JOIN TRADE_COMPLIANCE_DB.ATOMIC.ENTRY_LINE el ON b.BROKER_ID = el.BROKER_ID
+      GROUP BY 1, 2
+      ORDER BY accuracy_pct ASC
+      LIMIT 10
+      
+  - name: pending_rules
+    question: "Show me suggested rules waiting for approval"
+    sql: |
+      SELECT RULE_NAME, RULE_DESCRIPTION, CONFIDENCE_SCORE, ESTIMATED_IMPACT, DISCOVERY_METHOD
+      FROM TRADE_COMPLIANCE_DB.ML.DISCOVERED_RULES
+      WHERE STATUS = 'SUGGESTED'
+      ORDER BY ESTIMATED_IMPACT DESC
+      LIMIT 20
+      
+  - name: todays_anomalies
+    question: "What anomalies were detected today?"
+    sql: |
+      SELECT ad.ANOMALY_TYPE, ad.ANOMALY_SCORE, ad.EXPLANATION, ad.POTENTIAL_IMPACT, ad.STATUS
+      FROM TRADE_COMPLIANCE_DB.ML.ANOMALY_DETECTIONS ad
+      WHERE ad.DETECTION_DATE = CURRENT_DATE()
+      ORDER BY ad.ANOMALY_SCORE DESC
+      LIMIT 50
+      
+  - name: china_exceptions
+    question: "Show me all exceptions from China"
+    sql: |
+      SELECT el.PART_NUMBER, el.BROKER_HTS_CODE, el.OVERALL_STATUS,
+             el.PART_VALIDATION, el.HTS_VALIDATION, el.ADDCVD_VALIDATION,
+             el.ENTERED_VALUE, el.DUTY_AMOUNT
+      FROM TRADE_COMPLIANCE_DB.ATOMIC.ENTRY_LINE el
+      WHERE el.BROKER_COO = 'CN' AND el.OVERALL_STATUS = 'FAIL'
+      ORDER BY el.ENTERED_VALUE DESC
+      LIMIT 100
+      
+  - name: duty_at_risk
+    question: "What is our total duty at risk from failed validations?"
+    sql: |
+      SELECT SUM(DUTY_AMOUNT) as total_duty_at_risk,
+             COUNT(*) as failed_lines,
+             AVG(DUTY_AMOUNT) as avg_duty_per_line
+      FROM TRADE_COMPLIANCE_DB.ATOMIC.ENTRY_LINE
+      WHERE OVERALL_STATUS = 'FAIL'
+      
+  - name: hts_mismatches
+    question: "Show me HTS code mismatches"
+    sql: |
+      SELECT el.PART_NUMBER, el.BROKER_HTS_CODE, el.GTM_HTS_CODE,
+             el.BROKER_COO, el.ENTERED_VALUE, el.HTS_VALIDATION_MSG
+      FROM TRADE_COMPLIANCE_DB.ATOMIC.ENTRY_LINE el
+      WHERE el.HTS_VALIDATION = 'FAIL'
+      ORDER BY el.ENTERED_VALUE DESC
+      LIMIT 100
+
+custom_instructions: >
+  This is an AI-powered trade compliance system for Cummins Entry Visibility.
+  
+  KEY CAPABILITIES:
+  1. BROKER ONBOARDING: AI automatically maps new broker file formats (schema inference)
+  2. RULE DISCOVERY: AI suggests new validation rules from historical correction patterns
+  3. ANOMALY DETECTION: AI flags unusual entries without explicit rules
+  
+  TERMINOLOGY:
+  - HTS/HTSUS: Harmonized Tariff Schedule codes (10-digit US tariff codes)
+  - ADD: Anti-Dumping Duty (extra tariff on unfairly priced imports)
+  - CVD: Countervailing Duty (tariff on subsidized imports)
+  - COO: Country of Origin
+  - GTM: Global Trade Management (reference data source)
+  - Exception: A validation failure that needs review
+  - Anomaly: AI-detected unusual pattern (may not be a rule violation)
+  
+  WHEN USERS ASK ABOUT:
+  - "Onboarding" or "new broker" → Discuss schema inference and field mapping
+  - "Rules" or "validation" → Can be known rules OR AI-discovered rules
+  - "Anomalies" or "unusual" → AI-detected issues, distinct from rule failures
+  - "Accuracy" or "performance" → Broker validation accuracy rates
+  - "Impact" or "risk" → Duty dollars at risk from failed validations
+  
+  The system continuously learns from analyst corrections to discover new rules.
