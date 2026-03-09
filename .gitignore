@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Reference app (not part of this project)
+reference_app_construction_capital_delivery/
+
+# Large binary files
+*.docx
+*.xlsx
+*.xlsb
+*.pdf
+
+# Secrets
+.env
+*.pem
+credentials.json
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
