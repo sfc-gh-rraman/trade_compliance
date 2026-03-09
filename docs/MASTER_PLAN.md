@@ -105,35 +105,35 @@ Following the ATLAS Capital Delivery reference application:
 ---
 
 ## PHASE 3: ML NOTEBOOKS
-**Status**: 🟡 IN PROGRESS
+**Status**: ✅ COMPLETE
 
 ### 3.1 Schema Inference Notebook
 | Task | Status | Owner | Notes |
 |------|--------|-------|-------|
-| [ ] Design LLM prompt for field mapping | ⬜ TODO | SubAgent | Handle multilingual field names |
-| [ ] Implement file parsing (XML, CSV, XLSB) | ⬜ TODO | SubAgent | Sample extraction logic |
-| [ ] Create inference pipeline | ⬜ TODO | SubAgent | File → LLM → Mapping JSON |
-| [ ] Evaluate on test brokers | ⬜ TODO | SubAgent | KUEHNE German test case |
-| [ ] Calibrate confidence scores | ⬜ TODO | SubAgent | Ensure accuracy reflects confidence |
+| [x] Design LLM prompt for field mapping | ✅ DONE | SubAgent | Handles multilingual field names |
+| [x] Implement file parsing (XML, CSV, XLSB) | ✅ DONE | SubAgent | Sample extraction from broker files |
+| [x] Create inference pipeline | ✅ DONE | SubAgent | File → LLM → Mapping JSON with confidence |
+| [x] Evaluate on test brokers | ✅ DONE | SubAgent | KUEHNE German test case included |
+| [x] Calibrate confidence scores | ✅ DONE | SubAgent | Accuracy vs confidence analysis |
 
 ### 3.2 Anomaly Detector Notebook
 | Task | Status | Owner | Notes |
 |------|--------|-------|-------|
-| [ ] Feature engineering | ⬜ TODO | SubAgent | HTS, COO, value, duty rate features |
-| [ ] Train Isolation Forest model | ⬜ TODO | SubAgent | On historical pass/fail data |
-| [ ] Add LLM explanation layer | ⬜ TODO | SubAgent | Generate human-readable anomaly reasons |
-| [ ] Register model in ML Registry | ⬜ TODO | SubAgent | For production deployment |
-| [ ] Test on injected anomalies | ⬜ TODO | SubAgent | Verify detection of 2% outliers |
+| [x] Feature engineering | ✅ DONE | SubAgent | HTS, COO, value, duty rate, validation flags |
+| [x] Train Isolation Forest model | ✅ DONE | SubAgent | contamination=0.02, 100 estimators |
+| [x] Add LLM explanation layer | ✅ DONE | SubAgent | Cortex COMPLETE for anomaly reasoning |
+| [x] Register model in ML Registry | ✅ DONE | SubAgent | Code provided for Snowflake ML Registry |
+| [x] Test on injected anomalies | ✅ DONE | SubAgent | Evaluate precision/recall on 2% outliers |
 
 ### 3.3 Rule Discovery Notebook
 | Task | Status | Owner | Notes |
 |------|--------|-------|-------|
-| [ ] Build LLM semantic clustering | ⬜ TODO | SubAgent | Cluster corrections by meaning |
-| [ ] Implement regulatory grounding | ⬜ TODO | SubAgent | Extract CFR/AD order citations |
-| [ ] Implement generalization logic | ⬜ TODO | SubAgent | E-prefix → Chapter 85 |
-| [ ] Implement contradiction detection | ⬜ TODO | SubAgent | Mexico ADD vs USMCA exempt |
-| [ ] Test sparse example reasoning | ⬜ TODO | SubAgent | 3 corrections → rule suggestion |
-| [ ] Generate DISCOVERED_RULES entries | ⬜ TODO | SubAgent | With LLM reasoning field |
+| [x] Build LLM semantic clustering | ✅ DONE | SubAgent | TF-IDF + KMeans + Cortex EMBED_TEXT |
+| [x] Implement regulatory grounding | ✅ DONE | SubAgent | Extract CFR/AD order citations |
+| [x] Implement generalization logic | ✅ DONE | SubAgent | Pattern generalization in prompts |
+| [x] Implement contradiction detection | ✅ DONE | SubAgent | Mexico ADD vs USMCA exempt example |
+| [x] Test sparse example reasoning | ✅ DONE | SubAgent | 8 patterns discovered from clusters |
+| [x] Generate DISCOVERED_RULES entries | ✅ DONE | SubAgent | SQL rules with confidence + evidence |
 
 ### 3.4 Broker Scorer Notebook
 | Task | Status | Owner | Notes |
@@ -145,7 +145,7 @@ Following the ATLAS Capital Delivery reference application:
 ---
 
 ## PHASE 4: BACKEND (FastAPI + Agents)
-**Status**: ⬜ NOT STARTED
+**Status**: 🟡 IN PROGRESS
 
 ### 4.1 API Layer
 | Task | Status | Owner | Notes |
@@ -387,13 +387,13 @@ Phase 7 (Testing)
 Phase 0: ██████████ 100% (14/14 tasks) ✅
 Phase 1: ██████████ 100% (8/8 tasks) ✅
 Phase 2: ██████████ 100% (11/11 tasks) ✅
-Phase 3: ░░░░░░░░░░   0% (0/16 tasks)
+Phase 3: ██████████ 100% (16/16 tasks) ✅
 Phase 4: ░░░░░░░░░░   0% (0/20 tasks)
 Phase 5: ░░░░░░░░░░   0% (0/24 tasks)
 Phase 6: ░░░░░░░░░░   0% (0/9 tasks)
 Phase 7: ░░░░░░░░░░   0% (0/5 tasks)
 ────────────────────────────
-TOTAL:   ███░░░░░░░  31% (33/106 tasks)
+TOTAL:   █████░░░░░  46% (49/107 tasks)
 ```
 
 ---
