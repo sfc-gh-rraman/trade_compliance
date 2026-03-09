@@ -1,0 +1,501 @@
+HTS_CODE,HTS_DESCRIPTION,CHAPTER,SECTION,DUTY_RATE,ADD_RATE,CVD_RATE,EFFECTIVE_DATE,EXPIRATION_DATE
+7318140000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,0.0,150.0,0.0,2019-12-17,2030-12-31
+8536411000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,0.0,0.0,0.0,2019-12-25,2030-12-31
+8503009500,"Parts suitable for use with electric motors and generators, 9500",85,XVI,6.0,0.0,0.0,2019-05-01,2030-12-31
+8481802500,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 2500",84,XVI,10.0,200.0,0.0,2019-09-17,2030-12-31
+8413301000,"Pumps for liquids; liquid elevators, 1000",84,XVI,6.0,0.0,0.0,2019-04-07,2030-12-31
+8507201000,"Electric accumulators including separators, 1000",85,XVI,15.0,0.0,0.0,2019-03-24,2030-12-31
+8408201000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 1000",84,XVI,0.0,0.0,0.0,2019-05-21,2030-12-31
+8708999500,"Parts and accessories of motor vehicles, 9500",87,XVII,0.0,0.0,0.0,2019-04-10,2030-12-31
+8708999100,"Parts and accessories of motor vehicles, 9100",87,XVII,10.0,0.0,0.0,2019-11-05,2030-12-31
+8536501000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,3.5,0.0,0.0,2019-12-05,2030-12-31
+8414301000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 1000",84,XVI,10.0,0.0,0.0,2019-01-31,2030-12-31
+8409991000,"Parts suitable for use with spark-ignition or compression-ignition engines, 1000",84,XVI,10.0,0.0,0.0,2019-01-25,2030-12-31
+8409991000,"Parts suitable for use with spark-ignition or compression-ignition engines, 1000",84,XVI,5.0,0.0,0.0,2019-04-09,2030-12-31
+8409999100,"Parts suitable for use with spark-ignition or compression-ignition engines, 9100",84,XVI,2.5,0.0,0.0,2019-08-16,2030-12-31
+8413601000,"Pumps for liquids; liquid elevators, 1000",84,XVI,0.0,0.0,0.0,2019-10-17,2030-12-31
+8481401000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,25.0,100.0,100.0,2019-12-07,2030-12-31
+8409991000,"Parts suitable for use with spark-ignition or compression-ignition engines, 1000",84,XVI,5.0,300.0,0.0,2019-10-15,2030-12-31
+8408101000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 1000",84,XVI,0.0,0.0,0.0,2019-11-20,2030-12-31
+8409914000,"Parts suitable for use with spark-ignition or compression-ignition engines, 4000",84,XVI,12.5,0.0,0.0,2019-11-21,2030-12-31
+7318210000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,2.5,50.0,100.0,2019-12-07,2030-12-31
+8708999800,"Parts and accessories of motor vehicles, 9800",87,XVII,5.0,0.0,0.0,2019-05-24,2030-12-31
+7318220000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,5.0,50.0,50.0,2019-01-13,2030-12-31
+8408102000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 2000",84,XVI,2.5,200.0,0.0,2019-03-12,2030-12-31
+7318160000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,2.5,0.0,0.0,2019-12-11,2030-12-31
+7318290000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,2.5,100.0,0.0,2019-01-12,2030-12-31
+8412215000,"Engines and motors, other (hydraulic, pneumatic), 5000",84,XVI,2.5,0.0,75.0,2019-01-10,2030-12-31
+8708921000,"Parts and accessories of motor vehicles, 1000",87,XVII,7.5,0.0,0.0,2019-10-06,2030-12-31
+8544609000,"Insulated wire, cable; optical fiber cables, 9000",85,XVI,3.5,0.0,0.0,2019-07-01,2030-12-31
+8503001000,"Parts suitable for use with electric motors and generators, 1000",85,XVI,10.0,250.0,0.0,2019-05-07,2030-12-31
+8708101000,"Parts and accessories of motor vehicles, 1000",87,XVII,10.0,0.0,0.0,2019-05-01,2030-12-31
+8413301000,"Pumps for liquids; liquid elevators, 1000",84,XVI,0.0,0.0,0.0,2019-02-27,2030-12-31
+8481201000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,2.5,0.0,10.0,2019-07-23,2030-12-31
+8414599500,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9500",84,XVI,0.0,0.0,50.0,2019-10-27,2030-12-31
+8501101000,"Electric motors and generators, 1000",85,XVI,7.5,0.0,100.0,2019-07-24,2030-12-31
+7326200000,"Other articles of iron or steel, 0000",73,XV,3.5,0.0,0.0,2019-04-15,2030-12-31
+8503009500,"Parts suitable for use with electric motors and generators, 9500",85,XVI,7.5,0.0,0.0,2019-01-26,2030-12-31
+8504211000,"Electrical transformers, static converters, inductors, 1000",85,XVI,15.0,0.0,0.0,2019-03-09,2030-12-31
+8413302000,"Pumps for liquids; liquid elevators, 2000",84,XVI,3.5,0.0,150.0,2019-11-15,2030-12-31
+7318290000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,5.0,0.0,0.0,2019-10-31,2030-12-31
+8708301000,"Parts and accessories of motor vehicles, 1000",87,XVII,15.0,0.0,0.0,2019-09-02,2030-12-31
+8504401000,"Electrical transformers, static converters, inductors, 1000",85,XVI,2.5,50.0,0.0,2019-01-21,2030-12-31
+8507101000,"Electric accumulators including separators, 1000",85,XVI,5.0,0.0,0.0,2019-01-18,2030-12-31
+8481101000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,0.0,0.0,0.0,2019-07-10,2030-12-31
+8413301000,"Pumps for liquids; liquid elevators, 1000",84,XVI,0.0,150.0,0.0,2019-11-08,2030-12-31
+8708801000,"Parts and accessories of motor vehicles, 1000",87,XVII,2.5,0.0,0.0,2019-05-22,2030-12-31
+8408109000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 9000",84,XVI,5.0,0.0,10.0,2019-01-07,2030-12-31
+8504101000,"Electrical transformers, static converters, inductors, 1000",85,XVI,0.0,0.0,0.0,2019-08-19,2030-12-31
+8409999100,"Parts suitable for use with spark-ignition or compression-ignition engines, 9100",84,XVI,2.5,50.0,0.0,2019-05-17,2030-12-31
+8503004500,"Parts suitable for use with electric motors and generators, 4500",85,XVI,2.5,0.0,0.0,2019-01-19,2030-12-31
+8408209000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 9000",84,XVI,5.0,0.0,0.0,2019-03-31,2030-12-31
+8501311000,"Electric motors and generators, 1000",85,XVI,0.0,250.0,25.0,2019-06-10,2030-12-31
+8504401000,"Electrical transformers, static converters, inductors, 1000",85,XVI,12.5,0.0,0.0,2019-09-26,2030-12-31
+8708211000,"Parts and accessories of motor vehicles, 1000",87,XVII,2.5,0.0,0.0,2019-08-18,2030-12-31
+8708301000,"Parts and accessories of motor vehicles, 1000",87,XVII,7.5,0.0,0.0,2019-11-30,2030-12-31
+7318230000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,2.5,0.0,0.0,2019-11-08,2030-12-31
+8414901000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 1000",84,XVI,0.0,0.0,0.0,2019-04-08,2030-12-31
+8409914000,"Parts suitable for use with spark-ignition or compression-ignition engines, 4000",84,XVI,20.0,0.0,75.0,2019-09-17,2030-12-31
+8483102000,"Transmission shafts, cranks, bearing housings, gears, gearing, 2000",84,XVI,0.0,250.0,0.0,2019-05-10,2030-12-31
+8414809100,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9100",84,XVI,5.0,0.0,0.0,2019-07-27,2030-12-31
+7326190000,"Other articles of iron or steel, 0000",73,XV,0.0,150.0,0.0,2019-02-04,2030-12-31
+8501102000,"Electric motors and generators, 2000",85,XVI,7.5,300.0,0.0,2019-07-13,2030-12-31
+8708999800,"Parts and accessories of motor vehicles, 9800",87,XVII,3.5,0.0,0.0,2019-05-12,2030-12-31
+7318230000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,3.5,200.0,0.0,2019-08-30,2030-12-31
+8708401000,"Parts and accessories of motor vehicles, 1000",87,XVII,7.5,0.0,0.0,2019-05-30,2030-12-31
+8708211000,"Parts and accessories of motor vehicles, 1000",87,XVII,2.5,0.0,0.0,2019-12-02,2030-12-31
+8408201000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 1000",84,XVI,2.5,0.0,0.0,2019-03-25,2030-12-31
+7318120000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,25.0,100.0,0.0,2019-02-04,2030-12-31
+8412311000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,2.5,25.0,150.0,2019-10-31,2030-12-31
+8504909500,"Electrical transformers, static converters, inductors, 9500",85,XVI,5.0,0.0,200.0,2019-10-04,2030-12-31
+8504101000,"Electrical transformers, static converters, inductors, 1000",85,XVI,6.0,0.0,0.0,2019-04-13,2030-12-31
+8414308000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 8000",84,XVI,6.0,0.0,0.0,2019-03-25,2030-12-31
+8708301000,"Parts and accessories of motor vehicles, 1000",87,XVII,6.0,0.0,0.0,2019-09-30,2030-12-31
+8507201000,"Electric accumulators including separators, 1000",85,XVI,2.5,0.0,10.0,2019-03-25,2030-12-31
+8503009900,"Parts suitable for use with electric motors and generators, 9900",85,XVI,7.5,0.0,0.0,2019-06-01,2030-12-31
+8544421000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,6.0,0.0,75.0,2019-02-16,2030-12-31
+7318150000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,12.5,0.0,0.0,2019-09-08,2030-12-31
+8507600000,"Electric accumulators including separators, 0000",85,XVI,7.5,0.0,0.0,2019-06-09,2030-12-31
+7318130000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,6.0,0.0,0.0,2019-08-06,2030-12-31
+7318130000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,5.0,0.0,50.0,2019-10-17,2030-12-31
+7318110000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,25.0,0.0,50.0,2019-11-02,2030-12-31
+8483102000,"Transmission shafts, cranks, bearing housings, gears, gearing, 2000",84,XVI,0.0,100.0,0.0,2019-09-23,2030-12-31
+8481101000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,3.5,0.0,150.0,2019-11-10,2030-12-31
+8483109000,"Transmission shafts, cranks, bearing housings, gears, gearing, 9000",84,XVI,5.0,0.0,25.0,2019-10-03,2030-12-31
+8536411000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,20.0,0.0,0.0,2019-11-13,2030-12-31
+8409919900,"Parts suitable for use with spark-ignition or compression-ignition engines, 9900",84,XVI,2.5,0.0,0.0,2019-01-18,2030-12-31
+8483101000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,3.5,0.0,0.0,2019-08-03,2030-12-31
+8504909500,"Electrical transformers, static converters, inductors, 9500",85,XVI,7.5,50.0,0.0,2019-04-13,2030-12-31
+8544191000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,3.5,100.0,200.0,2019-03-07,2030-12-31
+8536101000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,5.0,50.0,0.0,2019-11-08,2030-12-31
+8412909000,"Engines and motors, other (hydraulic, pneumatic), 9000",84,XVI,10.0,0.0,200.0,2019-10-30,2030-12-31
+7326190000,"Other articles of iron or steel, 0000",73,XV,5.0,0.0,0.0,2019-04-15,2030-12-31
+8708501000,"Parts and accessories of motor vehicles, 1000",87,XVII,10.0,0.0,0.0,2019-01-27,2030-12-31
+8507309000,"Electric accumulators including separators, 9000",85,XVI,2.5,300.0,0.0,2019-08-14,2030-12-31
+8536909500,"Electrical apparatus for switching, protecting circuits, 9500",85,XVI,3.5,100.0,0.0,2019-07-08,2030-12-31
+8483102000,"Transmission shafts, cranks, bearing housings, gears, gearing, 2000",84,XVI,6.0,0.0,0.0,2019-03-30,2030-12-31
+8536501000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,2.5,25.0,50.0,2019-01-20,2030-12-31
+8408202000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 2000",84,XVI,25.0,0.0,0.0,2019-01-29,2030-12-31
+8481301000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,5.0,250.0,0.0,2019-06-07,2030-12-31
+8501401000,"Electric motors and generators, 1000",85,XVI,10.0,100.0,150.0,2019-12-02,2030-12-31
+8536501000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,7.5,0.0,0.0,2019-10-10,2030-12-31
+8536101000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,6.0,0.0,0.0,2019-12-09,2030-12-31
+8412211000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,25.0,100.0,0.0,2019-05-11,2030-12-31
+8536101000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,0.0,300.0,50.0,2019-03-27,2030-12-31
+8507101000,"Electric accumulators including separators, 1000",85,XVI,12.5,0.0,0.0,2019-08-28,2030-12-31
+8412391000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,2.5,0.0,0.0,2019-07-10,2030-12-31
+8409911000,"Parts suitable for use with spark-ignition or compression-ignition engines, 1000",84,XVI,2.5,0.0,25.0,2019-04-05,2030-12-31
+8536909500,"Electrical apparatus for switching, protecting circuits, 9500",85,XVI,6.0,0.0,0.0,2019-12-15,2030-12-31
+8507500000,"Electric accumulators including separators, 0000",85,XVI,2.5,150.0,0.0,2019-02-26,2030-12-31
+8414901000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 1000",84,XVI,7.5,0.0,0.0,2019-05-20,2030-12-31
+8708999500,"Parts and accessories of motor vehicles, 9500",87,XVII,10.0,0.0,0.0,2019-05-10,2030-12-31
+8413819000,"Pumps for liquids; liquid elevators, 9000",84,XVI,3.5,0.0,0.0,2019-07-24,2030-12-31
+8483101000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,6.0,0.0,0.0,2019-12-16,2030-12-31
+8536201000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,2.5,0.0,0.0,2019-12-25,2030-12-31
+8501521000,"Electric motors and generators, 1000",85,XVI,10.0,0.0,0.0,2019-08-21,2030-12-31
+8708999700,"Parts and accessories of motor vehicles, 9700",87,XVII,7.5,0.0,0.0,2019-12-20,2030-12-31
+8483102000,"Transmission shafts, cranks, bearing housings, gears, gearing, 2000",84,XVI,3.5,0.0,0.0,2019-11-23,2030-12-31
+8481201000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,5.0,0.0,0.0,2019-10-23,2030-12-31
+8503009900,"Parts suitable for use with electric motors and generators, 9900",85,XVI,5.0,0.0,0.0,2019-05-21,2030-12-31
+8409919100,"Parts suitable for use with spark-ignition or compression-ignition engines, 9100",84,XVI,5.0,200.0,0.0,2019-04-19,2030-12-31
+8408201000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 1000",84,XVI,5.0,50.0,75.0,2019-03-21,2030-12-31
+8504501000,"Electrical transformers, static converters, inductors, 1000",85,XVI,2.5,0.0,0.0,2019-09-12,2030-12-31
+8507101000,"Electric accumulators including separators, 1000",85,XVI,10.0,150.0,0.0,2019-03-19,2030-12-31
+8414809100,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9100",84,XVI,10.0,0.0,0.0,2019-06-30,2030-12-31
+8504401000,"Electrical transformers, static converters, inductors, 1000",85,XVI,2.5,0.0,0.0,2019-03-16,2030-12-31
+8708999800,"Parts and accessories of motor vehicles, 9800",87,XVII,5.0,0.0,0.0,2019-03-20,2030-12-31
+7318130000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,2.5,0.0,25.0,2019-05-15,2030-12-31
+8481809000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 9000",84,XVI,10.0,100.0,0.0,2019-04-13,2030-12-31
+8544491000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,2.5,0.0,75.0,2019-11-15,2030-12-31
+8412909000,"Engines and motors, other (hydraulic, pneumatic), 9000",84,XVI,2.5,0.0,0.0,2019-10-15,2030-12-31
+8708921000,"Parts and accessories of motor vehicles, 1000",87,XVII,25.0,0.0,0.0,2019-09-25,2030-12-31
+8501311000,"Electric motors and generators, 1000",85,XVI,7.5,0.0,200.0,2019-09-01,2030-12-31
+8413301000,"Pumps for liquids; liquid elevators, 1000",84,XVI,10.0,0.0,0.0,2019-12-17,2030-12-31
+8708941000,"Parts and accessories of motor vehicles, 1000",87,XVII,7.5,0.0,0.0,2019-05-05,2030-12-31
+8501201000,"Electric motors and generators, 1000",85,XVI,5.0,150.0,0.0,2019-10-20,2030-12-31
+7318140000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,2.5,0.0,25.0,2019-11-18,2030-12-31
+8503001000,"Parts suitable for use with electric motors and generators, 1000",85,XVI,2.5,0.0,75.0,2019-08-13,2030-12-31
+7326190000,"Other articles of iron or steel, 0000",73,XV,6.0,0.0,0.0,2019-02-25,2030-12-31
+8483109000,"Transmission shafts, cranks, bearing housings, gears, gearing, 9000",84,XVI,6.0,0.0,0.0,2019-06-29,2030-12-31
+8507500000,"Electric accumulators including separators, 0000",85,XVI,12.5,0.0,0.0,2019-09-14,2030-12-31
+8507800000,"Electric accumulators including separators, 0000",85,XVI,0.0,0.0,0.0,2019-12-06,2030-12-31
+8414301000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 1000",84,XVI,3.5,200.0,0.0,2019-11-20,2030-12-31
+8708501000,"Parts and accessories of motor vehicles, 1000",87,XVII,6.0,0.0,0.0,2019-10-31,2030-12-31
+8501401000,"Electric motors and generators, 1000",85,XVI,3.5,150.0,0.0,2019-11-12,2030-12-31
+8544301000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,0.0,0.0,0.0,2019-10-31,2030-12-31
+8483109000,"Transmission shafts, cranks, bearing housings, gears, gearing, 9000",84,XVI,2.5,0.0,0.0,2019-05-24,2030-12-31
+8408102000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 2000",84,XVI,5.0,200.0,0.0,2019-09-28,2030-12-31
+8413819000,"Pumps for liquids; liquid elevators, 9000",84,XVI,0.0,0.0,0.0,2019-03-17,2030-12-31
+8708101000,"Parts and accessories of motor vehicles, 1000",87,XVII,2.5,0.0,0.0,2019-10-15,2030-12-31
+8414909000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9000",84,XVI,6.0,0.0,100.0,2019-08-18,2030-12-31
+8481301000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,15.0,0.0,0.0,2019-08-02,2030-12-31
+8504101000,"Electrical transformers, static converters, inductors, 1000",85,XVI,3.5,0.0,0.0,2019-09-24,2030-12-31
+8481809000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 9000",84,XVI,15.0,300.0,0.0,2019-03-23,2030-12-31
+7326901000,"Other articles of iron or steel, 1000",73,XV,5.0,0.0,25.0,2019-11-19,2030-12-31
+8708911000,"Parts and accessories of motor vehicles, 1000",87,XVII,5.0,0.0,0.0,2019-05-20,2030-12-31
+8507309000,"Electric accumulators including separators, 9000",85,XVI,10.0,0.0,0.0,2019-05-27,2030-12-31
+8544191000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,6.0,250.0,75.0,2019-11-11,2030-12-31
+8708801000,"Parts and accessories of motor vehicles, 1000",87,XVII,0.0,0.0,0.0,2019-09-07,2030-12-31
+8481401000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,7.5,0.0,25.0,2019-03-25,2030-12-31
+8501201000,"Electric motors and generators, 1000",85,XVI,10.0,250.0,0.0,2019-07-02,2030-12-31
+7326110000,"Other articles of iron or steel, 0000",73,XV,0.0,0.0,25.0,2019-06-17,2030-12-31
+8507201000,"Electric accumulators including separators, 1000",85,XVI,2.5,0.0,0.0,2019-03-24,2030-12-31
+8544609000,"Insulated wire, cable; optical fiber cables, 9000",85,XVI,2.5,200.0,0.0,2019-06-03,2030-12-31
+8412291000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,25.0,300.0,0.0,2019-08-01,2030-12-31
+8501521000,"Electric motors and generators, 1000",85,XVI,7.5,150.0,0.0,2019-10-18,2030-12-31
+8414809100,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9100",84,XVI,2.5,0.0,0.0,2019-06-30,2030-12-31
+8483301000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,5.0,150.0,0.0,2019-08-25,2030-12-31
+8408201000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 1000",84,XVI,25.0,0.0,0.0,2019-06-08,2030-12-31
+8412291000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,0.0,0.0,0.0,2019-06-04,2030-12-31
+8544191000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,3.5,300.0,0.0,2019-03-16,2030-12-31
+8483301000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,0.0,0.0,0.0,2019-04-13,2030-12-31
+8708801000,"Parts and accessories of motor vehicles, 1000",87,XVII,2.5,0.0,0.0,2019-11-30,2030-12-31
+8413309100,"Pumps for liquids; liquid elevators, 9100",84,XVI,5.0,0.0,0.0,2019-02-26,2030-12-31
+8544491000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,0.0,0.0,0.0,2019-07-16,2030-12-31
+7326901000,"Other articles of iron or steel, 1000",73,XV,6.0,0.0,50.0,2019-06-21,2030-12-31
+8708291000,"Parts and accessories of motor vehicles, 1000",87,XVII,5.0,0.0,0.0,2019-10-03,2030-12-31
+8414909000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9000",84,XVI,6.0,200.0,0.0,2019-06-29,2030-12-31
+8412391000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,15.0,0.0,0.0,2019-06-07,2030-12-31
+8504311000,"Electrical transformers, static converters, inductors, 1000",85,XVI,3.5,0.0,50.0,2019-01-06,2030-12-31
+8501201000,"Electric motors and generators, 1000",85,XVI,10.0,0.0,0.0,2019-10-03,2030-12-31
+8507101000,"Electric accumulators including separators, 1000",85,XVI,0.0,0.0,75.0,2019-01-21,2030-12-31
+8504501000,"Electrical transformers, static converters, inductors, 1000",85,XVI,6.0,100.0,0.0,2019-02-19,2030-12-31
+8503004500,"Parts suitable for use with electric motors and generators, 4500",85,XVI,6.0,0.0,0.0,2019-10-02,2030-12-31
+8504211000,"Electrical transformers, static converters, inductors, 1000",85,XVI,0.0,0.0,0.0,2019-05-24,2030-12-31
+8481802500,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 2500",84,XVI,6.0,25.0,0.0,2019-06-27,2030-12-31
+8409919900,"Parts suitable for use with spark-ignition or compression-ignition engines, 9900",84,XVI,7.5,100.0,150.0,2019-07-27,2030-12-31
+8483509000,"Transmission shafts, cranks, bearing housings, gears, gearing, 9000",84,XVI,12.5,0.0,0.0,2019-09-05,2030-12-31
+8413601000,"Pumps for liquids; liquid elevators, 1000",84,XVI,5.0,150.0,0.0,2019-02-06,2030-12-31
+8501521000,"Electric motors and generators, 1000",85,XVI,20.0,0.0,0.0,2019-04-17,2030-12-31
+8501521000,"Electric motors and generators, 1000",85,XVI,5.0,0.0,0.0,2019-12-30,2030-12-31
+8481301000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,6.0,0.0,0.0,2019-08-21,2030-12-31
+8544301000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,7.5,300.0,0.0,2019-05-29,2030-12-31
+8412211000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,12.5,0.0,50.0,2019-04-25,2030-12-31
+8708291000,"Parts and accessories of motor vehicles, 1000",87,XVII,3.5,0.0,0.0,2019-02-16,2030-12-31
+8507600000,"Electric accumulators including separators, 0000",85,XVI,25.0,300.0,0.0,2019-11-12,2030-12-31
+7318110000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,5.0,100.0,0.0,2019-06-19,2030-12-31
+8414599500,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9500",84,XVI,6.0,0.0,0.0,2019-01-30,2030-12-31
+7326190000,"Other articles of iron or steel, 0000",73,XV,10.0,0.0,100.0,2019-03-13,2030-12-31
+8504311000,"Electrical transformers, static converters, inductors, 1000",85,XVI,2.5,0.0,0.0,2019-05-30,2030-12-31
+8501101000,"Electric motors and generators, 1000",85,XVI,2.5,0.0,200.0,2019-10-10,2030-12-31
+8413309100,"Pumps for liquids; liquid elevators, 9100",84,XVI,0.0,150.0,0.0,2019-04-29,2030-12-31
+8544111000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,25.0,0.0,0.0,2019-06-01,2030-12-31
+8536101000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,3.5,0.0,0.0,2019-01-31,2030-12-31
+8708999700,"Parts and accessories of motor vehicles, 9700",87,XVII,20.0,0.0,0.0,2019-03-19,2030-12-31
+8501401000,"Electric motors and generators, 1000",85,XVI,3.5,0.0,0.0,2019-08-17,2030-12-31
+7318150000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,7.5,200.0,0.0,2019-06-13,2030-12-31
+8413309100,"Pumps for liquids; liquid elevators, 9100",84,XVI,7.5,0.0,75.0,2019-03-04,2030-12-31
+8501521000,"Electric motors and generators, 1000",85,XVI,2.5,50.0,0.0,2019-01-16,2030-12-31
+8481301000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,2.5,150.0,0.0,2019-12-30,2030-12-31
+8536411000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,5.0,0.0,0.0,2019-10-01,2030-12-31
+8414308000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 8000",84,XVI,5.0,250.0,0.0,2019-03-14,2030-12-31
+8412391000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,12.5,0.0,0.0,2019-09-05,2030-12-31
+8413601000,"Pumps for liquids; liquid elevators, 1000",84,XVI,7.5,0.0,0.0,2019-12-02,2030-12-31
+8507600000,"Electric accumulators including separators, 0000",85,XVI,2.5,0.0,0.0,2019-10-07,2030-12-31
+8481809000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 9000",84,XVI,2.5,100.0,100.0,2019-10-01,2030-12-31
+8412909000,"Engines and motors, other (hydraulic, pneumatic), 9000",84,XVI,5.0,0.0,25.0,2019-09-06,2030-12-31
+8708101000,"Parts and accessories of motor vehicles, 1000",87,XVII,7.5,0.0,0.0,2019-10-22,2030-12-31
+8536909500,"Electrical apparatus for switching, protecting circuits, 9500",85,XVI,7.5,0.0,0.0,2019-08-06,2030-12-31
+8408201000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 1000",84,XVI,5.0,0.0,0.0,2019-01-28,2030-12-31
+8412311000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,5.0,250.0,50.0,2019-07-18,2030-12-31
+8412311000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,7.5,0.0,0.0,2019-06-20,2030-12-31
+8408209000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 9000",84,XVI,12.5,0.0,0.0,2019-02-20,2030-12-31
+8413709100,"Pumps for liquids; liquid elevators, 9100",84,XVI,2.5,0.0,0.0,2019-08-04,2030-12-31
+7318160000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,5.0,0.0,100.0,2019-04-14,2030-12-31
+8544491000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,0.0,0.0,25.0,2019-11-19,2030-12-31
+8708999700,"Parts and accessories of motor vehicles, 9700",87,XVII,5.0,0.0,0.0,2019-04-15,2030-12-31
+8483101000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,3.5,0.0,100.0,2019-05-10,2030-12-31
+8503001000,"Parts suitable for use with electric motors and generators, 1000",85,XVI,25.0,0.0,150.0,2019-12-05,2030-12-31
+8507800000,"Electric accumulators including separators, 0000",85,XVI,5.0,0.0,10.0,2019-12-06,2030-12-31
+8708211000,"Parts and accessories of motor vehicles, 1000",87,XVII,3.5,0.0,0.0,2019-09-09,2030-12-31
+8504101000,"Electrical transformers, static converters, inductors, 1000",85,XVI,10.0,0.0,0.0,2019-07-05,2030-12-31
+8412909000,"Engines and motors, other (hydraulic, pneumatic), 9000",84,XVI,0.0,100.0,10.0,2019-06-07,2030-12-31
+8481201000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,3.5,0.0,0.0,2019-07-15,2030-12-31
+8504101000,"Electrical transformers, static converters, inductors, 1000",85,XVI,10.0,0.0,0.0,2019-11-27,2030-12-31
+8708801000,"Parts and accessories of motor vehicles, 1000",87,XVII,2.5,0.0,0.0,2019-04-16,2030-12-31
+8408102000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 2000",84,XVI,0.0,25.0,0.0,2019-01-14,2030-12-31
+8708941000,"Parts and accessories of motor vehicles, 1000",87,XVII,10.0,0.0,0.0,2019-08-07,2030-12-31
+8483401000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,0.0,0.0,0.0,2019-08-31,2030-12-31
+8504401000,"Electrical transformers, static converters, inductors, 1000",85,XVI,6.0,0.0,0.0,2019-03-09,2030-12-31
+8483509000,"Transmission shafts, cranks, bearing housings, gears, gearing, 9000",84,XVI,25.0,150.0,0.0,2019-05-26,2030-12-31
+8536699000,"Electrical apparatus for switching, protecting circuits, 9000",85,XVI,0.0,0.0,150.0,2019-08-08,2030-12-31
+8504311000,"Electrical transformers, static converters, inductors, 1000",85,XVI,0.0,0.0,150.0,2019-09-24,2030-12-31
+7318140000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,7.5,0.0,50.0,2019-12-03,2030-12-31
+8412211000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,6.0,0.0,25.0,2019-07-12,2030-12-31
+8503001000,"Parts suitable for use with electric motors and generators, 1000",85,XVI,5.0,0.0,0.0,2019-09-13,2030-12-31
+8413302000,"Pumps for liquids; liquid elevators, 2000",84,XVI,2.5,0.0,100.0,2019-07-04,2030-12-31
+8409999100,"Parts suitable for use with spark-ignition or compression-ignition engines, 9100",84,XVI,0.0,0.0,0.0,2019-07-10,2030-12-31
+8483401000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,2.5,0.0,0.0,2019-09-15,2030-12-31
+8413302000,"Pumps for liquids; liquid elevators, 2000",84,XVI,12.5,300.0,0.0,2019-05-09,2030-12-31
+8481101000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,5.0,0.0,200.0,2019-10-06,2030-12-31
+8501311000,"Electric motors and generators, 1000",85,XVI,2.5,0.0,100.0,2019-01-07,2030-12-31
+8412291000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,5.0,0.0,0.0,2019-03-12,2030-12-31
+8504501000,"Electrical transformers, static converters, inductors, 1000",85,XVI,3.5,150.0,0.0,2019-07-14,2030-12-31
+8708401000,"Parts and accessories of motor vehicles, 1000",87,XVII,2.5,0.0,0.0,2019-08-27,2030-12-31
+8507309000,"Electric accumulators including separators, 9000",85,XVI,2.5,0.0,50.0,2019-05-12,2030-12-31
+8504501000,"Electrical transformers, static converters, inductors, 1000",85,XVI,10.0,200.0,0.0,2019-04-28,2030-12-31
+8507500000,"Electric accumulators including separators, 0000",85,XVI,7.5,0.0,0.0,2019-12-26,2030-12-31
+8414308000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 8000",84,XVI,0.0,0.0,0.0,2019-01-03,2030-12-31
+7318120000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,6.0,0.0,0.0,2019-04-28,2030-12-31
+8408101000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 1000",84,XVI,7.5,0.0,0.0,2019-12-30,2030-12-31
+7318220000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,7.5,0.0,25.0,2019-04-12,2030-12-31
+8413709100,"Pumps for liquids; liquid elevators, 9100",84,XVI,15.0,50.0,0.0,2019-08-03,2030-12-31
+7326901000,"Other articles of iron or steel, 1000",73,XV,2.5,0.0,25.0,2019-06-24,2030-12-31
+8501102000,"Electric motors and generators, 2000",85,XVI,2.5,0.0,0.0,2019-05-03,2030-12-31
+8708999500,"Parts and accessories of motor vehicles, 9500",87,XVII,5.0,0.0,0.0,2019-07-07,2030-12-31
+8481809000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 9000",84,XVI,2.5,0.0,0.0,2019-05-04,2030-12-31
+7318240000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,7.5,0.0,0.0,2019-04-23,2030-12-31
+8412291000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,6.0,200.0,0.0,2019-11-19,2030-12-31
+8409991000,"Parts suitable for use with spark-ignition or compression-ignition engines, 1000",84,XVI,7.5,0.0,75.0,2019-04-14,2030-12-31
+8536699000,"Electrical apparatus for switching, protecting circuits, 9000",85,XVI,3.5,0.0,0.0,2019-05-05,2030-12-31
+7318150000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,2.5,0.0,50.0,2019-01-15,2030-12-31
+8503009500,"Parts suitable for use with electric motors and generators, 9500",85,XVI,5.0,0.0,10.0,2019-01-19,2030-12-31
+8501101000,"Electric motors and generators, 1000",85,XVI,20.0,0.0,0.0,2019-05-14,2030-12-31
+8413819000,"Pumps for liquids; liquid elevators, 9000",84,XVI,0.0,200.0,0.0,2019-10-22,2030-12-31
+8408209000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 9000",84,XVI,10.0,0.0,0.0,2019-06-15,2030-12-31
+8503001000,"Parts suitable for use with electric motors and generators, 1000",85,XVI,0.0,300.0,0.0,2019-06-05,2030-12-31
+8409919900,"Parts suitable for use with spark-ignition or compression-ignition engines, 9900",84,XVI,5.0,0.0,0.0,2019-08-11,2030-12-31
+8413301000,"Pumps for liquids; liquid elevators, 1000",84,XVI,10.0,0.0,0.0,2019-09-14,2030-12-31
+8536699000,"Electrical apparatus for switching, protecting circuits, 9000",85,XVI,10.0,0.0,0.0,2019-08-14,2030-12-31
+7326200000,"Other articles of iron or steel, 0000",73,XV,7.5,0.0,0.0,2019-03-23,2030-12-31
+8413309100,"Pumps for liquids; liquid elevators, 9100",84,XVI,2.5,0.0,150.0,2019-10-29,2030-12-31
+8483401000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,20.0,200.0,10.0,2019-10-03,2030-12-31
+8483301000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,2.5,0.0,0.0,2019-11-13,2030-12-31
+8504211000,"Electrical transformers, static converters, inductors, 1000",85,XVI,2.5,0.0,10.0,2019-06-08,2030-12-31
+7318160000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,3.5,0.0,0.0,2019-07-02,2030-12-31
+8507800000,"Electric accumulators including separators, 0000",85,XVI,5.0,0.0,150.0,2019-07-12,2030-12-31
+8708291000,"Parts and accessories of motor vehicles, 1000",87,XVII,0.0,0.0,0.0,2019-02-23,2030-12-31
+7318230000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,6.0,0.0,0.0,2019-08-28,2030-12-31
+7318210000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,6.0,50.0,25.0,2019-08-17,2030-12-31
+8544609000,"Insulated wire, cable; optical fiber cables, 9000",85,XVI,10.0,0.0,0.0,2019-10-22,2030-12-31
+8507600000,"Electric accumulators including separators, 0000",85,XVI,2.5,0.0,0.0,2019-03-04,2030-12-31
+8483509000,"Transmission shafts, cranks, bearing housings, gears, gearing, 9000",84,XVI,0.0,300.0,0.0,2019-09-15,2030-12-31
+8409911000,"Parts suitable for use with spark-ignition or compression-ignition engines, 1000",84,XVI,15.0,25.0,0.0,2019-04-18,2030-12-31
+8481101000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,6.0,0.0,100.0,2019-11-07,2030-12-31
+7318160000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,0.0,50.0,0.0,2019-04-22,2030-12-31
+8414901000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 1000",84,XVI,5.0,0.0,75.0,2019-11-03,2030-12-31
+7318240000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,6.0,200.0,0.0,2019-09-30,2030-12-31
+7318150000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,6.0,0.0,0.0,2019-12-11,2030-12-31
+7318110000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,2.5,0.0,0.0,2019-11-11,2030-12-31
+8409919100,"Parts suitable for use with spark-ignition or compression-ignition engines, 9100",84,XVI,2.5,25.0,75.0,2019-01-17,2030-12-31
+8413709100,"Pumps for liquids; liquid elevators, 9100",84,XVI,2.5,0.0,0.0,2019-02-19,2030-12-31
+8481802500,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 2500",84,XVI,0.0,150.0,0.0,2019-11-02,2030-12-31
+8481301000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,3.5,0.0,0.0,2019-01-25,2030-12-31
+8483101000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,12.5,150.0,0.0,2019-07-13,2030-12-31
+8412215000,"Engines and motors, other (hydraulic, pneumatic), 5000",84,XVI,5.0,0.0,200.0,2019-05-17,2030-12-31
+8501311000,"Electric motors and generators, 1000",85,XVI,15.0,300.0,0.0,2019-08-16,2030-12-31
+8504909500,"Electrical transformers, static converters, inductors, 9500",85,XVI,10.0,0.0,0.0,2019-10-13,2030-12-31
+8409919100,"Parts suitable for use with spark-ignition or compression-ignition engines, 9100",84,XVI,3.5,0.0,0.0,2019-11-30,2030-12-31
+8483401000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,6.0,0.0,25.0,2019-06-04,2030-12-31
+8544301000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,2.5,50.0,0.0,2019-04-01,2030-12-31
+8544421000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,12.5,0.0,0.0,2019-01-28,2030-12-31
+8409991000,"Parts suitable for use with spark-ignition or compression-ignition engines, 1000",84,XVI,7.5,0.0,0.0,2019-11-14,2030-12-31
+8483102000,"Transmission shafts, cranks, bearing housings, gears, gearing, 2000",84,XVI,0.0,300.0,0.0,2019-03-09,2030-12-31
+7326908600,"Other articles of iron or steel, 8600",73,XV,7.5,0.0,0.0,2019-10-18,2030-12-31
+8409911000,"Parts suitable for use with spark-ignition or compression-ignition engines, 1000",84,XVI,6.0,0.0,0.0,2019-05-10,2030-12-31
+8481809000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 9000",84,XVI,25.0,0.0,0.0,2019-05-25,2030-12-31
+8503009500,"Parts suitable for use with electric motors and generators, 9500",85,XVI,5.0,200.0,0.0,2019-10-12,2030-12-31
+8708921000,"Parts and accessories of motor vehicles, 1000",87,XVII,0.0,0.0,0.0,2019-09-15,2030-12-31
+8414909000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9000",84,XVI,6.0,0.0,0.0,2019-11-29,2030-12-31
+8503009500,"Parts suitable for use with electric motors and generators, 9500",85,XVI,5.0,0.0,0.0,2019-01-10,2030-12-31
+8408202000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 2000",84,XVI,2.5,300.0,0.0,2019-03-10,2030-12-31
+8414308000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 8000",84,XVI,15.0,150.0,0.0,2019-06-16,2030-12-31
+8408101000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 1000",84,XVI,5.0,0.0,0.0,2019-01-08,2030-12-31
+7326200000,"Other articles of iron or steel, 0000",73,XV,0.0,200.0,100.0,2019-10-04,2030-12-31
+8536201000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,6.0,0.0,0.0,2019-10-27,2030-12-31
+8483509000,"Transmission shafts, cranks, bearing housings, gears, gearing, 9000",84,XVI,0.0,0.0,0.0,2019-01-13,2030-12-31
+8544609000,"Insulated wire, cable; optical fiber cables, 9000",85,XVI,12.5,0.0,0.0,2019-11-02,2030-12-31
+8708401000,"Parts and accessories of motor vehicles, 1000",87,XVII,5.0,0.0,0.0,2019-07-08,2030-12-31
+8412311000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,2.5,0.0,0.0,2019-06-20,2030-12-31
+7318120000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,0.0,150.0,0.0,2019-02-13,2030-12-31
+8503009900,"Parts suitable for use with electric motors and generators, 9900",85,XVI,12.5,250.0,0.0,2019-07-15,2030-12-31
+8507201000,"Electric accumulators including separators, 1000",85,XVI,6.0,0.0,0.0,2019-02-16,2030-12-31
+8708921000,"Parts and accessories of motor vehicles, 1000",87,XVII,5.0,0.0,0.0,2019-10-28,2030-12-31
+8414301000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 1000",84,XVI,7.5,100.0,150.0,2019-02-08,2030-12-31
+8409914000,"Parts suitable for use with spark-ignition or compression-ignition engines, 4000",84,XVI,5.0,150.0,0.0,2019-10-12,2030-12-31
+8708211000,"Parts and accessories of motor vehicles, 1000",87,XVII,2.5,0.0,0.0,2019-03-12,2030-12-31
+8414301000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 1000",84,XVI,6.0,0.0,75.0,2019-12-21,2030-12-31
+8412391000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,3.5,50.0,0.0,2019-05-26,2030-12-31
+8708941000,"Parts and accessories of motor vehicles, 1000",87,XVII,20.0,0.0,0.0,2019-05-29,2030-12-31
+8481101000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,7.5,0.0,0.0,2019-09-01,2030-12-31
+8708401000,"Parts and accessories of motor vehicles, 1000",87,XVII,10.0,0.0,0.0,2019-03-03,2030-12-31
+8501401000,"Electric motors and generators, 1000",85,XVI,5.0,0.0,0.0,2019-03-26,2030-12-31
+8536909500,"Electrical apparatus for switching, protecting circuits, 9500",85,XVI,3.5,0.0,0.0,2019-12-25,2030-12-31
+8409911000,"Parts suitable for use with spark-ignition or compression-ignition engines, 1000",84,XVI,2.5,0.0,0.0,2019-05-16,2030-12-31
+8481401000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,2.5,0.0,100.0,2019-12-08,2030-12-31
+8536201000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,2.5,0.0,25.0,2019-03-10,2030-12-31
+8501401000,"Electric motors and generators, 1000",85,XVI,20.0,300.0,0.0,2019-11-06,2030-12-31
+8408202000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 2000",84,XVI,0.0,0.0,0.0,2019-07-14,2030-12-31
+8408109000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 9000",84,XVI,5.0,0.0,75.0,2019-08-23,2030-12-31
+8708709000,"Parts and accessories of motor vehicles, 9000",87,XVII,2.5,0.0,0.0,2019-02-02,2030-12-31
+7318220000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,10.0,150.0,100.0,2019-01-05,2030-12-31
+8414809100,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9100",84,XVI,10.0,100.0,0.0,2019-04-28,2030-12-31
+8708301000,"Parts and accessories of motor vehicles, 1000",87,XVII,0.0,0.0,0.0,2019-03-02,2030-12-31
+8413709100,"Pumps for liquids; liquid elevators, 9100",84,XVI,6.0,0.0,0.0,2019-09-16,2030-12-31
+8483509000,"Transmission shafts, cranks, bearing housings, gears, gearing, 9000",84,XVI,2.5,0.0,10.0,2019-07-06,2030-12-31
+8544191000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,0.0,0.0,0.0,2019-09-10,2030-12-31
+7326110000,"Other articles of iron or steel, 0000",73,XV,6.0,0.0,0.0,2019-06-22,2030-12-31
+8409914000,"Parts suitable for use with spark-ignition or compression-ignition engines, 4000",84,XVI,3.5,100.0,0.0,2019-04-02,2030-12-31
+7318140000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,2.5,0.0,0.0,2019-08-03,2030-12-31
+8408109000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 9000",84,XVI,3.5,0.0,0.0,2019-07-20,2030-12-31
+8501101000,"Electric motors and generators, 1000",85,XVI,20.0,0.0,0.0,2019-12-27,2030-12-31
+8409919900,"Parts suitable for use with spark-ignition or compression-ignition engines, 9900",84,XVI,10.0,0.0,0.0,2019-12-09,2030-12-31
+8708291000,"Parts and accessories of motor vehicles, 1000",87,XVII,3.5,0.0,0.0,2019-02-15,2030-12-31
+8413819000,"Pumps for liquids; liquid elevators, 9000",84,XVI,15.0,200.0,0.0,2019-01-16,2030-12-31
+8536909500,"Electrical apparatus for switching, protecting circuits, 9500",85,XVI,5.0,0.0,0.0,2019-05-02,2030-12-31
+8412215000,"Engines and motors, other (hydraulic, pneumatic), 5000",84,XVI,0.0,0.0,0.0,2019-10-08,2030-12-31
+7326908600,"Other articles of iron or steel, 8600",73,XV,10.0,150.0,0.0,2019-04-28,2030-12-31
+8708999500,"Parts and accessories of motor vehicles, 9500",87,XVII,20.0,0.0,0.0,2019-03-16,2030-12-31
+8412311000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,5.0,200.0,0.0,2019-03-01,2030-12-31
+8409919100,"Parts suitable for use with spark-ignition or compression-ignition engines, 9100",84,XVI,12.5,0.0,100.0,2019-07-16,2030-12-31
+8408109000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 9000",84,XVI,5.0,300.0,50.0,2019-06-22,2030-12-31
+8708709000,"Parts and accessories of motor vehicles, 9000",87,XVII,5.0,0.0,0.0,2019-03-11,2030-12-31
+8504311000,"Electrical transformers, static converters, inductors, 1000",85,XVI,3.5,0.0,100.0,2019-07-14,2030-12-31
+8481401000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,12.5,0.0,0.0,2019-07-20,2030-12-31
+8414599500,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9500",84,XVI,5.0,0.0,0.0,2019-11-27,2030-12-31
+8408202000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 2000",84,XVI,0.0,0.0,75.0,2019-12-29,2030-12-31
+8708101000,"Parts and accessories of motor vehicles, 1000",87,XVII,2.5,0.0,0.0,2019-05-06,2030-12-31
+7326901000,"Other articles of iron or steel, 1000",73,XV,3.5,0.0,0.0,2019-05-26,2030-12-31
+8544191000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,5.0,250.0,0.0,2019-08-22,2030-12-31
+8501311000,"Electric motors and generators, 1000",85,XVI,3.5,0.0,0.0,2019-03-01,2030-12-31
+8501201000,"Electric motors and generators, 1000",85,XVI,2.5,0.0,0.0,2019-01-22,2030-12-31
+8544301000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,2.5,150.0,0.0,2019-09-29,2030-12-31
+8413309100,"Pumps for liquids; liquid elevators, 9100",84,XVI,12.5,0.0,0.0,2019-04-04,2030-12-31
+8414599500,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9500",84,XVI,5.0,300.0,0.0,2019-08-19,2030-12-31
+8503004500,"Parts suitable for use with electric motors and generators, 4500",85,XVI,0.0,200.0,0.0,2019-08-20,2030-12-31
+8481201000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,3.5,0.0,0.0,2019-01-21,2030-12-31
+8409919900,"Parts suitable for use with spark-ignition or compression-ignition engines, 9900",84,XVI,20.0,0.0,150.0,2019-05-30,2030-12-31
+8408202000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 2000",84,XVI,2.5,150.0,0.0,2019-01-30,2030-12-31
+8536411000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,2.5,300.0,0.0,2019-01-27,2030-12-31
+8408102000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 2000",84,XVI,15.0,50.0,0.0,2019-10-25,2030-12-31
+8413819000,"Pumps for liquids; liquid elevators, 9000",84,XVI,0.0,0.0,0.0,2019-07-10,2030-12-31
+8408101000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 1000",84,XVI,5.0,0.0,0.0,2019-01-07,2030-12-31
+8544421000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,2.5,0.0,0.0,2019-11-07,2030-12-31
+8413302000,"Pumps for liquids; liquid elevators, 2000",84,XVI,3.5,0.0,0.0,2019-10-12,2030-12-31
+7318110000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,5.0,50.0,0.0,2019-03-04,2030-12-31
+8414901000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 1000",84,XVI,10.0,0.0,0.0,2019-02-11,2030-12-31
+8412291000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,10.0,0.0,200.0,2019-02-25,2030-12-31
+7318220000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,7.5,200.0,25.0,2019-05-10,2030-12-31
+8408109000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 9000",84,XVI,0.0,0.0,0.0,2019-01-31,2030-12-31
+8504211000,"Electrical transformers, static converters, inductors, 1000",85,XVI,5.0,200.0,10.0,2019-10-26,2030-12-31
+8536699000,"Electrical apparatus for switching, protecting circuits, 9000",85,XVI,15.0,0.0,0.0,2019-05-04,2030-12-31
+7318290000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,6.0,0.0,0.0,2019-03-04,2030-12-31
+8708999100,"Parts and accessories of motor vehicles, 9100",87,XVII,0.0,0.0,0.0,2019-08-18,2030-12-31
+7318290000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,15.0,0.0,25.0,2019-05-19,2030-12-31
+8708911000,"Parts and accessories of motor vehicles, 1000",87,XVII,2.5,0.0,0.0,2019-02-25,2030-12-31
+8414301000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 1000",84,XVI,12.5,0.0,0.0,2019-09-13,2030-12-31
+8409911000,"Parts suitable for use with spark-ignition or compression-ignition engines, 1000",84,XVI,10.0,0.0,10.0,2019-08-25,2030-12-31
+8507500000,"Electric accumulators including separators, 0000",85,XVI,7.5,300.0,0.0,2019-07-09,2030-12-31
+8483301000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,2.5,0.0,0.0,2019-12-27,2030-12-31
+8507800000,"Electric accumulators including separators, 0000",85,XVI,3.5,0.0,200.0,2019-12-23,2030-12-31
+8483401000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,0.0,0.0,0.0,2019-06-26,2030-12-31
+8412391000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,5.0,0.0,0.0,2019-11-15,2030-12-31
+8708999700,"Parts and accessories of motor vehicles, 9700",87,XVII,2.5,0.0,0.0,2019-08-14,2030-12-31
+8544111000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,7.5,0.0,0.0,2019-01-03,2030-12-31
+8536411000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,6.0,0.0,0.0,2019-01-30,2030-12-31
+7318210000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,10.0,150.0,0.0,2019-07-20,2030-12-31
+8708709000,"Parts and accessories of motor vehicles, 9000",87,XVII,2.5,0.0,0.0,2019-12-19,2030-12-31
+8504909500,"Electrical transformers, static converters, inductors, 9500",85,XVI,7.5,0.0,0.0,2019-12-07,2030-12-31
+8503009900,"Parts suitable for use with electric motors and generators, 9900",85,XVI,0.0,0.0,0.0,2019-08-18,2030-12-31
+8708911000,"Parts and accessories of motor vehicles, 1000",87,XVII,7.5,0.0,0.0,2019-01-04,2030-12-31
+7318230000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,3.5,0.0,0.0,2019-08-04,2030-12-31
+8503009900,"Parts suitable for use with electric motors and generators, 9900",85,XVI,3.5,0.0,0.0,2019-01-17,2030-12-31
+8414909000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9000",84,XVI,2.5,0.0,50.0,2019-03-22,2030-12-31
+8413601000,"Pumps for liquids; liquid elevators, 1000",84,XVI,6.0,0.0,0.0,2019-06-09,2030-12-31
+8544421000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,15.0,250.0,0.0,2019-08-26,2030-12-31
+8501102000,"Electric motors and generators, 2000",85,XVI,3.5,200.0,0.0,2019-11-29,2030-12-31
+8483109000,"Transmission shafts, cranks, bearing housings, gears, gearing, 9000",84,XVI,2.5,300.0,0.0,2019-04-29,2030-12-31
+8507201000,"Electric accumulators including separators, 1000",85,XVI,5.0,200.0,0.0,2019-05-19,2030-12-31
+8414809100,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9100",84,XVI,3.5,0.0,75.0,2019-09-21,2030-12-31
+8501102000,"Electric motors and generators, 2000",85,XVI,10.0,0.0,0.0,2019-01-08,2030-12-31
+8504401000,"Electrical transformers, static converters, inductors, 1000",85,XVI,6.0,100.0,0.0,2019-07-06,2030-12-31
+8544609000,"Insulated wire, cable; optical fiber cables, 9000",85,XVI,12.5,50.0,0.0,2019-08-06,2030-12-31
+8412211000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,3.5,0.0,0.0,2019-08-03,2030-12-31
+8544301000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,12.5,0.0,0.0,2019-06-24,2030-12-31
+8504211000,"Electrical transformers, static converters, inductors, 1000",85,XVI,25.0,0.0,0.0,2019-04-27,2030-12-31
+8501102000,"Electric motors and generators, 2000",85,XVI,5.0,150.0,0.0,2019-04-11,2030-12-31
+8408209000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 9000",84,XVI,0.0,0.0,0.0,2019-01-25,2030-12-31
+8414901000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 1000",84,XVI,5.0,0.0,0.0,2019-12-15,2030-12-31
+7326110000,"Other articles of iron or steel, 0000",73,XV,6.0,0.0,100.0,2019-05-09,2030-12-31
+7318210000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,3.5,0.0,50.0,2019-02-10,2030-12-31
+8413709100,"Pumps for liquids; liquid elevators, 9100",84,XVI,5.0,100.0,0.0,2019-11-25,2030-12-31
+7326200000,"Other articles of iron or steel, 0000",73,XV,5.0,0.0,0.0,2019-11-23,2030-12-31
+7318130000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,2.5,150.0,50.0,2019-12-07,2030-12-31
+8536501000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,15.0,0.0,0.0,2019-06-19,2030-12-31
+8507309000,"Electric accumulators including separators, 9000",85,XVI,3.5,0.0,0.0,2019-03-14,2030-12-31
+8544491000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,3.5,0.0,0.0,2019-03-23,2030-12-31
+8409919100,"Parts suitable for use with spark-ignition or compression-ignition engines, 9100",84,XVI,10.0,0.0,0.0,2019-04-16,2030-12-31
+7326908600,"Other articles of iron or steel, 8600",73,XV,20.0,0.0,0.0,2019-10-24,2030-12-31
+8481201000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,0.0,0.0,0.0,2019-03-01,2030-12-31
+8708999100,"Parts and accessories of motor vehicles, 9100",87,XVII,10.0,0.0,0.0,2019-07-04,2030-12-31
+8501101000,"Electric motors and generators, 1000",85,XVI,7.5,0.0,0.0,2019-06-17,2030-12-31
+8483301000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,2.5,0.0,0.0,2019-04-15,2030-12-31
+8481802500,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 2500",84,XVI,5.0,200.0,0.0,2019-12-18,2030-12-31
+7318120000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,0.0,100.0,0.0,2019-12-31,2030-12-31
+8708501000,"Parts and accessories of motor vehicles, 1000",87,XVII,6.0,0.0,0.0,2019-04-09,2030-12-31
+8708709000,"Parts and accessories of motor vehicles, 9000",87,XVII,0.0,0.0,0.0,2019-12-11,2030-12-31
+8412215000,"Engines and motors, other (hydraulic, pneumatic), 5000",84,XVI,0.0,0.0,0.0,2019-07-28,2030-12-31
+8414599500,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9500",84,XVI,2.5,0.0,0.0,2019-07-02,2030-12-31
+7318240000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,7.5,50.0,0.0,2019-01-24,2030-12-31
+8503004500,"Parts suitable for use with electric motors and generators, 4500",85,XVI,0.0,0.0,0.0,2019-08-15,2030-12-31
+8409999100,"Parts suitable for use with spark-ignition or compression-ignition engines, 9100",84,XVI,6.0,0.0,0.0,2019-11-24,2030-12-31
+8504501000,"Electrical transformers, static converters, inductors, 1000",85,XVI,10.0,0.0,0.0,2019-05-09,2030-12-31
+8414308000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 8000",84,XVI,0.0,25.0,200.0,2019-05-03,2030-12-31
+8708999800,"Parts and accessories of motor vehicles, 9800",87,XVII,2.5,0.0,0.0,2019-04-29,2030-12-31
+8413302000,"Pumps for liquids; liquid elevators, 2000",84,XVI,5.0,0.0,50.0,2019-01-23,2030-12-31
+8708941000,"Parts and accessories of motor vehicles, 1000",87,XVII,3.5,0.0,0.0,2019-09-17,2030-12-31
+8414909000,"Air or vacuum pumps, air or gas compressors, fans, blowers, 9000",84,XVI,3.5,0.0,0.0,2019-06-19,2030-12-31
+8409999100,"Parts suitable for use with spark-ignition or compression-ignition engines, 9100",84,XVI,2.5,0.0,0.0,2019-12-29,2030-12-31
+8409914000,"Parts suitable for use with spark-ignition or compression-ignition engines, 4000",84,XVI,5.0,200.0,0.0,2019-09-29,2030-12-31
+8536699000,"Electrical apparatus for switching, protecting circuits, 9000",85,XVI,0.0,200.0,10.0,2019-12-16,2030-12-31
+8708911000,"Parts and accessories of motor vehicles, 1000",87,XVII,0.0,0.0,0.0,2019-03-09,2030-12-31
+8504311000,"Electrical transformers, static converters, inductors, 1000",85,XVI,2.5,100.0,0.0,2019-02-02,2030-12-31
+8413601000,"Pumps for liquids; liquid elevators, 1000",84,XVI,10.0,0.0,150.0,2019-01-24,2030-12-31
+8544111000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,6.0,0.0,0.0,2019-01-06,2030-12-31
+7326908600,"Other articles of iron or steel, 8600",73,XV,25.0,0.0,0.0,2019-08-13,2030-12-31
+8483109000,"Transmission shafts, cranks, bearing housings, gears, gearing, 9000",84,XVI,7.5,50.0,10.0,2019-04-10,2030-12-31
+8408102000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 2000",84,XVI,2.5,50.0,0.0,2019-07-18,2030-12-31
+8708999100,"Parts and accessories of motor vehicles, 9100",87,XVII,2.5,0.0,0.0,2019-02-26,2030-12-31
+7326110000,"Other articles of iron or steel, 0000",73,XV,0.0,100.0,50.0,2019-11-17,2030-12-31
+8544491000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,2.5,0.0,0.0,2019-05-16,2030-12-31
+7318240000,"Screws, bolts, nuts, coach screws, similar articles of iron or steel, 0000",73,XV,5.0,0.0,0.0,2019-08-29,2030-12-31
+8408101000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 1000",84,XVI,3.5,0.0,0.0,2019-03-28,2030-12-31
+8536501000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,25.0,0.0,0.0,2019-01-28,2030-12-31
+8483101000,"Transmission shafts, cranks, bearing housings, gears, gearing, 1000",84,XVI,0.0,0.0,0.0,2019-10-26,2030-12-31
+8412909000,"Engines and motors, other (hydraulic, pneumatic), 9000",84,XVI,3.5,0.0,0.0,2019-03-26,2030-12-31
+8412215000,"Engines and motors, other (hydraulic, pneumatic), 5000",84,XVI,3.5,0.0,0.0,2019-04-14,2030-12-31
+8507101000,"Electric accumulators including separators, 1000",85,XVI,12.5,0.0,0.0,2019-03-29,2030-12-31
+8544111000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,2.5,0.0,0.0,2019-07-24,2030-12-31
+8708501000,"Parts and accessories of motor vehicles, 1000",87,XVII,15.0,0.0,0.0,2019-01-18,2030-12-31
+8408209000,"Compression-ignition internal combustion piston engines (diesel or semi-diesel), 9000",84,XVI,0.0,0.0,0.0,2019-02-27,2030-12-31
+8536201000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,0.0,150.0,0.0,2019-10-13,2030-12-31
+8544421000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,2.5,0.0,0.0,2019-09-05,2030-12-31
+8503004500,"Parts suitable for use with electric motors and generators, 4500",85,XVI,6.0,25.0,0.0,2019-10-22,2030-12-31
+8536101000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,6.0,100.0,0.0,2019-06-15,2030-12-31
+8501201000,"Electric motors and generators, 1000",85,XVI,2.5,250.0,0.0,2019-08-09,2030-12-31
+8412211000,"Engines and motors, other (hydraulic, pneumatic), 1000",84,XVI,6.0,0.0,0.0,2019-04-16,2030-12-31
+8481802500,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 2500",84,XVI,0.0,250.0,150.0,2019-03-16,2030-12-31
+8504909500,"Electrical transformers, static converters, inductors, 9500",85,XVI,5.0,0.0,0.0,2019-07-31,2030-12-31
+8481401000,"Taps, cocks, valves for pipes, boiler shells, tanks, vats, 1000",84,XVI,10.0,0.0,0.0,2019-11-03,2030-12-31
+8544111000,"Insulated wire, cable; optical fiber cables, 1000",85,XVI,7.5,0.0,0.0,2019-04-20,2030-12-31
+8536201000,"Electrical apparatus for switching, protecting circuits, 1000",85,XVI,3.5,0.0,0.0,2019-06-11,2030-12-31
